@@ -1,0 +1,31 @@
+package jp.co.ka;
+
+public class Tsst {
+	public static void main(String[] args){
+		Person taro = new Person();
+		taro.name=" 山田太郎" ;
+		taro.age= 20;
+
+		Person kimura = new Person();
+		kimura.name="木村次郎";
+		kimura.age=18;
+
+		Person suzuki = new Person();
+		suzuki.name="鈴木花子";
+		suzuki.age=16;
+
+		Person kaneko = new Person();
+		kaneko.name="金子知禎";
+		kaneko.age=26;
+
+		System.out.println(taro.name);
+		System.out.println(taro.age);
+		System.out.println(kimura.name);
+		System.out.println(kimura.age);
+		System.out.println(suzuki.name);
+		System.out.println(suzuki.age);
+		System.out.println(kaneko.name);
+		System.out.println(kaneko.age);
+	}
+
+}
