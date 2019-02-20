@@ -1,0 +1,8 @@
+package jp.co.kkkk;
+
+public class Test {
+	public static void main(String [] arge){
+		Person taro = new Person();
+	}
+
+}

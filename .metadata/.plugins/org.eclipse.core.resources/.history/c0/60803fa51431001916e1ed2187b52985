@@ -1,0 +1,9 @@
+package jp.co.lll;
+
+public class Capsule {
+    public static void main(String[] arges){
+    	Person taro = new Person("山田太郎",20);
+    	System.out.println(taro.name);
+    }
+
+}
