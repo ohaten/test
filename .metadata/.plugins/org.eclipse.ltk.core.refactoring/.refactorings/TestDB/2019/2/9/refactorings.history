@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="1 個の要素を &apos;sql&apos; に移動&#x0D;&#x0A;- 元のプロジェクト: &apos;TestDB&apos;&#x0D;&#x0A;- 宛先要素: &apos;sql&apos;&#x0D;&#x0A;- オリジナル要素: &apos;testdb.sql&apos;" description="ファイルを移動する" element1="testdb.sql" files="1" flags="589830" folders="0" id="org.eclipse.wst.jsdt.ui.move" policy="org.eclipse.wst.jsdt.ui.moveResources" qualified="false" references="true" stamp="1551184894357" target="/TestDB/sql" units="0" version="1.0"/>
+</session>
