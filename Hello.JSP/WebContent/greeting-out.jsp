@@ -7,7 +7,7 @@
 </head>
 <body>
 <form method="post" action="total-out.jsp">
-<input type="text" name="proce">
+<input type="text" name="price">
 円x
 <input type="text" name="count">
 個+送料
