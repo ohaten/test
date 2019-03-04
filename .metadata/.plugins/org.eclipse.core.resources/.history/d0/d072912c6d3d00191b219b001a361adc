@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=”utf-8”>
+<title>HellowServlet</title>
+</head>
+<body>
+<input type="button" value="HelloServlet" onclick="location.herf='HelloServlet'">
+<input type="button" value="WelcomeServlet" onClick="location.href='welcome.jsp'">
+<input type="button" value="問い合わせ" onClick="location.href='inquiry.jsp'">
+</body>
+</html>
