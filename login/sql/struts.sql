@@ -1,6 +1,6 @@
 set names utf8;
 set foreign_key_checks = 0;
-drop database if exists logindb kaneko;
+drop database if exists logindb_kaneko;
 create database logindb_kaneko;
 use logindb_kaneko;
 
